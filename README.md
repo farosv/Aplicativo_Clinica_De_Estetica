@@ -1,12 +1,15 @@
-# Aplicativo *Bem te Quero*
+# Aplicativo de agendamento de horário *Bem te Quero*
 
 ## Ferramentas Utilizadas:
 
 <div align="left">
 <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Astah-00A4FF.svg?style=for-the-badge&logo=Astah&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" />  
-<img src="https://img.shields.io/badge/Google%20Docs-4285F4.svg?style=for-the-badge&logo=Google-Docs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Google%20Meet-00897B.svg?style=for-the-badge&logo=Google-Meet&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Docs-4285F4.svg?style=for-the-badge&logo=Google-Docs&logoColor=white" />  
+<img src="https://img.shields.io/badge/Google%20Forms-7248B9.svg?style=for-the-badge&logo=Google-Forms&logoColor=white" />
 </div>
 
 ## 1 - Tema sugerido de trabalho e motivação da equipe
@@ -26,9 +29,13 @@ O objetivo é desenvolver aplicação web responsiva, intuitiva e eficaz para ag
 ## 2 - Quais são os stakeholders do seu projeto?
 
 **Stakeholders do Projeto:** <br>
+
 **Proprietário da Clínica:** Interessado na melhoria do serviço e no aumento da fidelização dos clientes. <br>
 **Clientes:** Usuários da landing page, cuja experiência deve ser simples e eficaz. <br>
 **Desenvolvedores:** Responsáveis pela criação técnica da página. <br>
 **Equipe de Marketing:** Para promover e analisar o uso da landing page.
 
+## Links:
+**Link para o slide no Canva:** [Apresentação no Canva](https://www.canva.com/design/DAGfFyj6_dY/6nfg0eBKzYbDQ0ohCdESNA/edit?utm_content=DAGfFyj6_dY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br>
 
+**Link para o protótipo no Figma:** [Protótipo navegável](https://www.figma.com/proto/Hr3Q59Y1YeNe1c1iKVSf4Z/Projeto-de-Agendamento?node-id=102-536&t=ZEm8ZEZxMSyjQHtS-1)
